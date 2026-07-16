@@ -1,4 +1,4 @@
-# PHYS30762 – Assignment 3
+# Nuclear physics experiment
 
 ## Highlights
 
